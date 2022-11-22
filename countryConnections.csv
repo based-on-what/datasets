@@ -1,36 +1,36 @@
-lat1,lng1,lat2,lng2,c1,c2
-55.3781,-3.436,37.0902,-95.7129,England,USA
-55.3781,-3.436,37.0902,-95.7129,England,USA
-56.2639,9.5018,37.0902,-95.7129,Denmark,USA
-56.2639,9.5018,37.0902,-95.7129,Denmark,USA
-31.0461,34.8516,52.1326,5.2913,Israel,Netherlands
-33.8869,9.5375,46.2276,2.2137,Tunisia,France
-4.5709,-74.2973,37.0902,-95.7129,Colombia,USA
-47.1625,19.5033,55.3781,-3.436,Hungary,England
-39.0742,21.8243,60.1282,18.6435,Greece,Sweden
-60.1282,18.6435,61.9241,25.7482,Sweden,Finland
--25.2744,133.7751,55.3781,-3.436,Australia,England
-60.472,8.4689,61.9241,25.7482,Norway,Finland
-55.3781,-3.436,37.0902,-95.7129,England,USA
-50.5039,4.4699,55.3781,-3.436,Belgium,England
-61.524,105.3188,56.1304,-106.3468,Russia,Canada
-33.2232,43.6793,37.0902,-95.7129,Iraq,USA
-41.2044,74.7661,51.1657,10.4515,Kyrgyzstan,Germany
-37.0902,-95.7129,35.1264,33.4299,USA,Cyprus
-39.0742,21.8243,37.0902,-95.7129,Greece,USA
-31.0461,34.8516,51.1657,10.4515,Israel,Germany
-39.3999,-8.2245,55.3781,-3.436,Portugal,England
-43.9159,17.6791,45.1,15.2,Bosnia and Herzegovina,Croatia
-32.4279,53.688,60.472,8.4689,Iran,Norway
-61.9241,25.7482,60.1282,18.6435,Finland,Sweden
-48.3794,31.1656,56.1304,-106.3468,Ukraine,Canada
-55.1694,23.8813,55.3781,-3.436,Lithuania,England
-23.6345,-102.5528,37.0902,-95.7129,Mexico,USA
-56.1304,-106.3468,46.2276,2.2137,Canada,France
-55.1694,23.8813,51.1657,10.4515,Lithuania,Germany
-55.3781,-3.436,39.0742,21.8243,England,Greece
-39.0742,21.8243,60.1282,18.6435,Greece,Sweden
-41.8719,12.5674,40.4637,-3.7492,Italy,Spain
-37.0902,-95.7129,35.1264,33.4299,USA,Cyprus
-39.0742,21.8243,60.1282,18.6435,Greece,Sweden
-51.9194,19.1451,60.1282,18.6435,Poland,Sweden
+lat1,lng1,lat2,lng2,c1,c2,band_name,genre
+55.3781,-3.436,37.0902,-95.7129,England,USA,Motorhead,Heavy
+55.3781,-3.436,37.0902,-95.7129,England,USA,Ozzy Osbourne,Heavy
+56.2639,9.5018,37.0902,-95.7129,Denmark,USA,King Diamond,Heavy
+56.2639,9.5018,37.0902,-95.7129,Denmark,USA,Mercyful Fate,Heavy & First wave of black
+31.0461,34.8516,52.1326,5.2913,Israel,Netherlands,Melechesh,Melodic black & Folk
+33.8869,9.5375,46.2276,2.2137,Tunisia,France,Myrath,Progressive & Oriental folk
+4.5709,-74.2973,37.0902,-95.7129,Colombia,USA,Inquisition,Black & Thrash
+47.1625,19.5033,55.3781,-3.436,Hungary,England,Thy Catafalque,Avantgarde black
+39.0742,21.8243,60.1282,18.6435,Greece,Sweden,Nightrage,Melodic death
+60.1282,18.6435,61.9241,25.7482,Sweden,Finland,Sinergy,Heavy & Power
+-25.2744,133.7751,55.3781,-3.436,Australia,England,Destr�yer 666,Blackened thrash
+60.472,8.4689,61.9241,25.7482,Norway,Finland,Myrkgrav,Black & Folk
+55.3781,-3.436,37.0902,-95.7129,England,USA,Raven,New wave of british heavy & Heavy
+50.5039,4.4699,55.3781,-3.436,Belgium,England,Pantheist,Funeral doom
+61.524,105.3188,56.1304,-106.3468,Russia,Canada,Tvangeste,Symphonic black
+33.2232,43.6793,37.0902,-95.7129,Iraq,USA,Acrassicauda,Thrash
+41.2044,74.7661,51.1657,10.4515,Kyrgyzstan,Germany,Darkestrah,Pagan black
+37.0902,-95.7129,35.1264,33.4299,USA,Cyprus,Arrayan Path,Power,Heavy
+39.0742,21.8243,37.0902,-95.7129,Greece,USA,Human Rejection,Brutal death
+31.0461,34.8516,51.1657,10.4515,Israel,Germany,Hammercult,Death,Thrash
+39.3999,-8.2245,55.3781,-3.436,Portugal,England,A Dream Of Poe,Doom,Gothic
+43.9159,17.6791,45.1,15.2,Bosnia and Herzegovina,Croatia,Divlje Jagode,Heavy & Hard rock
+32.4279,53.688,60.472,8.4689,Iran,Norway,From The Vastland,Black
+61.9241,25.7482,60.1282,18.6435,Finland,Sweden,Oz,Heavy
+48.3794,31.1656,56.1304,-106.3468,Ukraine,Canada,Ego Depths,Funeral doom
+55.1694,23.8813,55.3781,-3.436,Lithuania,England,Shadowdances,Doom,Melodic death
+23.6345,-102.5528,37.0902,-95.7129,Mexico,USA,Yaotl Mictlan,Black,Folk
+56.1304,-106.3468,46.2276,2.2137,Canada,France,E-Force,Thrash
+55.1694,23.8813,51.1657,10.4515,Lithuania,Germany,N R C S S S T,Atmospheric black & Post-metal & Shoegaze
+55.3781,-3.436,39.0742,21.8243,England,Greece,Scar Of The Sun,Gothic doom
+39.0742,21.8243,60.1282,18.6435,Greece,Sweden,Scarblade,Heavy
+41.8719,12.5674,40.4637,-3.7492,Italy,Spain,Alkoholizer,Thrash
+37.0902,-95.7129,35.1264,33.4299,USA,Cyprus,Arryan Path,Heavy,Power
+39.0742,21.8243,60.1282,18.6435,Greece,Sweden,Ruthless Steel,Heavy
+51.9194,19.1451,60.1282,18.6435,Poland,Sweden,Suffer Yourself,Funeral doom
